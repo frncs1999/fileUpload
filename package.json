@@ -1,0 +1,24 @@
+{
+  "name": "fileUpload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frncs1999/fileUpload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frncs1999/fileUpload/issues"
+  },
+  "homepage": "https://github.com/frncs1999/fileUpload#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "electron": "^9.2.1"
+  }
+}
